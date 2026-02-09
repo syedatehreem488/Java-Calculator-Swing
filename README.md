@@ -39,3 +39,10 @@ src
    ```bash
    git clone https://github.com/your-username/Java-Calculator-Swing.git
 
+---
+
+## Future Improvements
+- Add advanced operations (square root, power, percentage).
+- Implement memory functions (M+, M-, MR).
+- Improve UI with modern look (JavaFX).
+- Add keyboard shortcuts for faster input.
